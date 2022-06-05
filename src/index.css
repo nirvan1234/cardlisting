@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cardType {
+  border: 1px solid grey;
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+}
+
+.bsdot {
+  color: palevioletred;
+  font-size: 1.5rem;
+}
+.bsdot-second {
+  color: green;
+  font-size: 1.6rem;
+}
+ul li a {
+  text-decoration: none;
+  color: grey;
+}
+
+.filter {
+  border: none;
+  border-radius: 0.25rem;
+  background-color: lightgray;
+  padding: 0.2rem;
+}
