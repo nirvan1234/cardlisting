@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nirvan1234/cardlisting/static/css/main.2cc42f19.css",
-    "main.js": "/nirvan1234/cardlisting/static/js/main.78450a29.js",
-    "index.html": "/nirvan1234/cardlisting/index.html",
-    "main.2cc42f19.css.map": "/nirvan1234/cardlisting/static/css/main.2cc42f19.css.map",
-    "main.78450a29.js.map": "/nirvan1234/cardlisting/static/js/main.78450a29.js.map"
+    "main.css": "/nirvan1234.github.io/cardlisting/static/css/main.2cc42f19.css",
+    "main.js": "/nirvan1234.github.io/cardlisting/static/js/main.78450a29.js",
+    "index.html": "/nirvan1234.github.io/cardlisting/index.html",
+    "main.2cc42f19.css.map": "/nirvan1234.github.io/cardlisting/static/css/main.2cc42f19.css.map",
+    "main.78450a29.js.map": "/nirvan1234.github.io/cardlisting/static/js/main.78450a29.js.map"
   },
   "entrypoints": [
     "static/css/main.2cc42f19.css",
