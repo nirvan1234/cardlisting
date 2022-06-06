@@ -2,7 +2,7 @@
   "name": "virtual_cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nirvan1234/cardlisting",
+  "homepage": "https://github.com/nirvan1234.github.io/cardlisting",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
